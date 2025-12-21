@@ -17,7 +17,7 @@
 //*
 //  * @project_name : © XPROVerce MD
 //  * @version      : 1.0
-//  * @author       : Janith Rashmika
+//  * @author       : Ransara
 //  * @youtube      : https://www.youtube.com/@gamingrash2006
 //  * @description  : A Multi-functional WhatsApp bot created by Janith Rashmika.
 //*
